@@ -1,0 +1,55 @@
+{
+  "name": "Moise NIYOBUHUNGIRO",
+  "title": "Software Developer",
+  "bio": "Passionate software developer from Rwanda with expertise in web development, photography, and frags design. I create innovative solutions that make a difference.",
+  "location": "Bugesera District, Eastern Province, Ntarama Sector",
+  "email": "moiseniyobuhungiro011@gmail.com",
+  "phone": "0793203618",
+  "instagram": "__M_O_N_I__",
+  "education": [
+    {
+      "school": "Nyirarukobwa Primary School",
+      "level": "Primary Education",
+      "period": "Started studies here"
+    },
+    {
+      "school": "Nyirarukobwa",
+      "level": "Ordinary Level (O'Level)",
+      "period": "Continued studies"
+    },
+    {
+      "school": "Runda TSS",
+      "level": "Secondary School",
+      "period": "Completed secondary education"
+    }
+  ],
+  "skills": {
+    "development": ["React", "JavaScript", "Node.js", "Express", "Tailwind CSS", "HTML/CSS", "Python", "Git"],
+    "design": ["UI/UX Design", "Figma", "Adobe Photoshop", "Canva"],
+    "photography": ["Portrait Photography", "Event Photography", "Photo Editing"]
+  },
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "Personal portfolio built with React and Tailwind CSS",
+      "technologies": ["React", "Tailwind CSS", "Node.js", "Express"],
+      "status": "Completed"
+    },
+    {
+      "title": "Photography Gallery",
+      "description": "Gallery showcasing photography work",
+      "technologies": ["React", "CSS", "Firebase"],
+      "status": "In Development"
+    },
+    {
+      "title": "Frag Design Studio",
+      "description": "Design studio for fragrance packaging and branding",
+      "technologies": ["Adobe Suite", "Figma"],
+      "status": "Planning"
+    }
+  ],
+  "social": {
+    "instagram": "https://instagram.com/__M_O_N_I__",
+    "whatsapp": "https://wa.me/250793203618"
+  }
+}
